@@ -1,0 +1,48 @@
+body {
+  font-family: "Montserrat";
+}
+p {
+  color: #373a40;
+  font-family: "Courier New,monospace";
+  font-size: 1rem;
+}
+
+
+/* Navigation Bar */
+
+.navbar{
+  background-color:#ff4c68;
+
+}
+
+.nav-item {
+  font-display: auto;
+  padding: 30px 15px;
+    display: inline-block;
+    font-weight: 400;
+    }
+
+.nav-link {
+  font-size: 1.3rem;
+  font-family: "'Yantramanav', sans-serif";
+  color: #bb2205;
+}
+.nav-link:hover {
+color: #fff;
+}
+
+.icon {
+  color:#bb2205;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  }
+
+.icon:hover {
+  color: #ff4c68;
+}
+/* Footer Section */
+
+
+
+ @media (min-width: 1200px) { ...
+ }
